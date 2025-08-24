@@ -1,7 +1,18 @@
 <h1 align="center">Hi 👋, I'm Shalini Shukla</h1>
 <h3 align="center">I am a React developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with ReactJS and Redux. I also have experience working with CSS and Bootstrap. I have worked on 3-4 live projects.</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhjeWJzbWtjYTF5dHJqbDlhaHZyeng2cGt2aGI1ajdwbDFoaXYxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sMGC0XjA1Hk58wppo/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/shalini-shukla-cs">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<br/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=anuragt96&style=flat-square&color=blue" alt=""/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shalinicse&label=Profile%20views&color=0e75b6&style=flat" alt="shalinicse" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalinicse" alt="shalinicse" /></a> </p>
 
